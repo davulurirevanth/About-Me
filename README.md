@@ -13,6 +13,8 @@ I'm from ACS
 ## Recommended Resources
 
 1. [Github](https://github.com/resource-watch)
+1. [Visual Studio}(https://docs.microsoft.com/en-us/cpp/windows/resource-files-visual-studio)
+1. [Tortoise Git](https://tortoisegit.org/docs/tortoisegit/tgit-intro-features.html)
 
 ## Contributors
 
