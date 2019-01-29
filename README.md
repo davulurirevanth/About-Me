@@ -8,6 +8,8 @@ I'm from ACS
 
 ## About
 
+To showcase my github page and publish my content on the webpage.
+
 ## Recommended Tools
 
 ## Recommended Resources
