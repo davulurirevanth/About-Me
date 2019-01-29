@@ -12,9 +12,9 @@ To showcase my github page and publish my content on the webpage.
 
 ## Recommended Tools
 
-- notepad++ -
-- tortoise Git -
-- Github -
+- [notepad++](https://notepad-plus-plus.org/download/) - Notepad is used to write,edit and save text files.
+- [tortoise Git](https://tortoisegit.org/download/) - TortoiseGit is used to send push and pull requests to the remote master.
+- [Github](https://desktop.github.com/) - Github is a cloud and used host webpages.
 
 ## Recommended Resources
 
