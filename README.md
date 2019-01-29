@@ -12,6 +12,10 @@ To showcase my github page and publish my content on the webpage.
 
 ## Recommended Tools
 
+- notepad++ -
+- tortoise Git -
+- Github -
+
 ## Recommended Resources
 
 1. [Github](https://github.com/resource-watch)
