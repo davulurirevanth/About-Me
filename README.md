@@ -4,6 +4,8 @@ Hi, I'm Revanth
 
 I'm from ACS
 ## Repository Links
+- [resoure Dir](https://github.com/davulurirevanth/)
+- [published site](https://davulurirevanth.github.io/aboutme/)
 
 
 ## About
