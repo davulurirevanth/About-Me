@@ -30,4 +30,3 @@ Revanth Davuluri
 
 Applied Computer Science
 
-![Legendary](http://www.teluguone.com/tmdbuserfiles/balakrishna-police-pics.jpg)
