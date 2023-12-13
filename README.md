@@ -2,7 +2,7 @@
 
 Hi, I'm Revanth
 
-I'm from ACS
+I'm from Applied Computer Science background
 ## Repository Links
 - [Source Directory](https://github.com/davulurirevanth/aboutme/)
 - [published site](https://davulurirevanth.github.io/aboutme/)
